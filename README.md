@@ -3,4 +3,4 @@ Portfolio, Cert Etc.
 
 ## 📜 Certificates
 
-- [View My Certificate](Certificates/GRADUATETECHNOLOGIST_NURSYAFIQAHBINTINORDIN.pdf)
+- [View My Certificate](Certifications/GRADUATETECHNOLOGIST_NURSYAFIQAHBINTINORDIN.pdf)
